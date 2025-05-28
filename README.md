@@ -63,7 +63,7 @@ Para outros detalhes da API, visitar a documentação <code>http://host:8080/swa
 
 <h3>Docker Compose</h3>
 
-<h2>Para iniciar no Docker Compose</h2>
+<p>Para iniciar no Docker Compose</p>
 <code>docker compose up -d --build</code>
 
 
