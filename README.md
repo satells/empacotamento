@@ -61,7 +61,7 @@ Para outros detalhes da API, visitar a documentação <code>http://host:8080/swa
 <h3>Actuator</h3>
 <code>http://host:8080/actuator</code>
 
-<h>3Docker Compose</h3>
+<h3>Docker Compose</h3>
 
 <h2>Para iniciar no Docker Compose</h2>
 <code>docker compose up -d --build</code>
