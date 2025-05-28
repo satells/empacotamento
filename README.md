@@ -9,8 +9,7 @@ Utilizada a biblioteca [3d-bin-container-packing](https://github.com/skjolber/3d
 
 <h3>JSON de entrada<br></h3>
 
-
-<span style="background-color: lightblue;"><code>{
+````
 "pedidos": [
     {
       "pedido_id": 101,
@@ -40,9 +39,7 @@ Utilizada a biblioteca [3d-bin-container-packing](https://github.com/skjolber/3d
     }
   ]
 }
-</code>
-</span>
-
+````
 Para outros detalhes da API, visitar a documentação <code>http://host:8080/swagger-ui.html</code>
 
 
