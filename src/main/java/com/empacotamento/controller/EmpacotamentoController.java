@@ -26,4 +26,9 @@ public class EmpacotamentoController implements EmpacotamentoApi {
 		return "1.1.1";
 	}
 
+	@GetMapping
+	public String getAppName() {
+		return "empacotamento";
+	}
+
 }
